@@ -9,6 +9,11 @@ body {
 
 }
 
+.slide-img {
+	width: auto;
+	height: auto;
+}
+
 .image_linkedin {
 	width: 50px;
 	border-radius: 40%;
